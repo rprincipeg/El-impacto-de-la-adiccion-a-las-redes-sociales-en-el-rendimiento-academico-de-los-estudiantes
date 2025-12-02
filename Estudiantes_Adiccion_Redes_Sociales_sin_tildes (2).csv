@@ -1,0 +1,706 @@
+ID_Estudiante,Edad,Genero,Nivel_Academico,Pais,Horas_Promedio_Uso_Diario,Plataforma_Mas_Usada,Afecta_Rendimiento_Academico,Horas_Sueno_Por_Noche,Puntaje_Salud_Mental,Estado_Civil,Conflictos_Por_Redes_Sociales,Puntaje_Adiccion
+1,19,Femenino,Pregrado,Bangladesh,5.2,Instagram,Si,6.5,6,En Relacion,3,8
+2,22,Masculino,Posgrado,India,2.1,Twitter,No,7.5,8,Soltero/a,0,3
+3,20,Femenino,Pregrado,USA,6.0,TikTok,Si,5.0,5,Complicado/a,4,9
+4,18,Masculino,Secundaria,UK,3.0,YouTube,No,7.0,7,Soltero/a,1,4
+5,21,Masculino,Posgrado,Canada,4.5,Facebook,Si,6.0,6,En Relacion,2,7
+6,19,Femenino,Pregrado,Australia,7.2,Instagram,Si,4.5,4,Complicado/a,5,9
+7,23,Masculino,Posgrado,Germany,1.5,LinkedIn,No,8.0,9,Soltero/a,0,2
+8,20,Femenino,Pregrado,Brazil,5.8,Snapchat,Si,6.0,6,En Relacion,2,8
+9,18,Masculino,Secundaria,Japan,4.0,TikTok,No,6.5,7,Soltero/a,1,5
+10,21,Femenino,Posgrado,South Korea,3.3,Instagram,No,7.0,7,En Relacion,1,4
+11,19,Masculino,Pregrado,France,4.8,Snapchat,Si,6.2,5,Complicado/a,3,7
+12,20,Femenino,Pregrado,Spain,5.5,TikTok,Si,5.8,6,En Relacion,2,8
+13,22,Masculino,Posgrado,Italy,2.8,LinkedIn,No,7.2,8,Soltero/a,1,4
+14,18,Femenino,Secundaria,Mexico,6.5,Instagram,Si,5.5,5,Soltero/a,4,9
+15,21,Masculino,Pregrado,Russia,3.7,YouTube,No,6.8,7,En Relacion,2,5
+16,20,Femenino,Pregrado,China,4.2,TikTok,Si,6.0,6,Complicado/a,3,7
+17,24,Masculino,Posgrado,Sweden,2.0,LinkedIn,No,7.8,8,Soltero/a,0,3
+18,19,Femenino,Secundaria,Norway,5.0,Instagram,Si,5.7,5,En Relacion,3,8
+19,21,Masculino,Pregrado,Denmark,3.5,Facebook,No,6.7,7,Soltero/a,1,5
+20,20,Femenino,Pregrado,Netherlands,4.7,Snapchat,Si,5.9,6,Complicado/a,3,7
+21,18,Masculino,Secundaria,Belgium,5.3,TikTok,Si,5.5,5,Soltero/a,4,8
+22,23,Femenino,Posgrado,Switzerland,2.5,LinkedIn,No,7.3,8,En Relacion,1,4
+23,19,Masculino,Pregrado,Austria,4.9,Instagram,Si,5.8,6,Complicado/a,3,7
+24,20,Femenino,Pregrado,Portugal,5.7,TikTok,Si,5.4,5,Soltero/a,4,8
+25,22,Masculino,Posgrado,Greece,3.2,Facebook,No,6.9,7,En Relacion,2,5
+26,19,Femenino,Secundaria,Ireland,6.1,Instagram,Si,5.2,5,Complicado/a,4,9
+27,21,Masculino,Pregrado,New Zealand,3.8,YouTube,No,6.6,7,Soltero/a,1,5
+28,20,Femenino,Pregrado,Singapore,4.4,TikTok,Si,5.9,6,En Relacion,3,7
+29,24,Masculino,Posgrado,Malaysia,2.2,LinkedIn,No,7.4,8,Soltero/a,0,3
+30,19,Femenino,Secundaria,Thailand,5.9,Instagram,Si,5.3,5,Complicado/a,4,8
+31,21,Masculino,Pregrado,Vietnam,3.6,Facebook,No,6.7,7,Soltero/a,1,5
+32,20,Femenino,Pregrado,Philippines,4.8,Snapchat,Si,5.7,6,En Relacion,3,7
+33,18,Masculino,Secundaria,Indonesia,5.4,TikTok,Si,5.4,5,Complicado/a,4,8
+34,23,Femenino,Posgrado,Taiwan,2.6,LinkedIn,No,7.2,8,Soltero/a,1,4
+35,19,Masculino,Pregrado,Hong Kong,4.7,Instagram,Si,5.8,6,En Relacion,3,7
+36,20,Femenino,Pregrado,Turkey,5.6,TikTok,Si,5.5,5,Complicado/a,4,8
+37,22,Masculino,Posgrado,Israel,3.1,Facebook,No,6.8,7,Soltero/a,1,5
+38,19,Femenino,Secundaria,UAE,6.2,Instagram,Si,5.1,5,En Relacion,4,9
+39,21,Masculino,Pregrado,Egypt,3.9,YouTube,No,6.5,7,Complicado/a,2,6
+40,20,Femenino,Pregrado,Morocco,4.5,TikTok,Si,5.8,6,Soltero/a,3,7
+41,24,Masculino,Posgrado,South Africa,2.3,LinkedIn,No,7.3,8,En Relacion,1,4
+42,19,Femenino,Secundaria,Nigeria,5.8,Instagram,Si,5.4,5,Complicado/a,4,8
+43,21,Masculino,Pregrado,Kenya,3.7,Facebook,No,6.6,7,Soltero/a,2,5
+44,20,Femenino,Pregrado,Ghana,4.6,Snapchat,Si,5.7,6,En Relacion,3,7
+45,18,Masculino,Secundaria,Argentina,5.5,TikTok,Si,5.3,5,Soltero/a,4,8
+46,23,Femenino,Posgrado,Chile,2.7,LinkedIn,No,7.1,8,Complicado/a,1,4
+47,19,Masculino,Pregrado,Colombia,4.8,Instagram,Si,5.9,6,En Relacion,3,7
+48,20,Femenino,Pregrado,Peru,5.5,TikTok,Si,5.6,5,Soltero/a,4,8
+49,22,Masculino,Posgrado,Venezuela,3.3,Facebook,No,6.7,7,En Relacion,2,5
+50,19,Femenino,Secundaria,Ecuador,6.3,Instagram,Si,5.2,5,Complicado/a,4,9
+51,21,Masculino,Pregrado,Uruguay,3.8,YouTube,No,6.4,7,Soltero/a,2,6
+52,20,Femenino,Pregrado,Paraguay,4.7,TikTok,Si,5.8,6,En Relacion,3,7
+53,24,Masculino,Posgrado,Bolivia,2.4,LinkedIn,No,7.2,8,Complicado/a,1,4
+54,19,Femenino,Secundaria,Costa Rica,5.7,Instagram,Si,5.5,5,Soltero/a,4,8
+55,21,Masculino,Pregrado,Panama,3.6,Facebook,No,6.5,7,En Relacion,2,5
+56,20,Femenino,Pregrado,Jamaica,4.9,Snapchat,Si,5.6,6,Complicado/a,3,7
+57,18,Masculino,Secundaria,Trinidad,5.6,TikTok,Si,5.2,5,Soltero/a,4,8
+58,23,Femenino,Posgrado,Bahamas,2.8,LinkedIn,No,7.0,8,En Relacion,1,4
+59,19,Masculino,Pregrado,Iceland,4.6,Instagram,Si,5.9,6,Complicado/a,3,7
+60,20,Femenino,Pregrado,Finland,5.4,TikTok,Si,5.7,5,Soltero/a,4,8
+61,22,Masculino,Posgrado,Poland,3.1,Facebook,No,7.1,7,Soltero/a,1,5
+62,19,Femenino,Pregrado,Romania,5.6,Instagram,Si,5.6,5,En Relacion,3,8
+63,20,Masculino,Pregrado,Hungary,4.2,TikTok,Si,6.0,6,Complicado/a,3,7
+64,18,Femenino,Secundaria,Czech Republic,6.1,Snapchat,Si,5.2,4,Soltero/a,4,9
+65,23,Masculino,Posgrado,Slovakia,2.3,LinkedIn,No,7.4,8,En Relacion,1,3
+66,21,Femenino,Pregrado,Croatia,4.8,Instagram,Si,5.8,6,Soltero/a,3,7
+67,20,Masculino,Pregrado,Serbia,3.9,YouTube,No,6.5,7,Complicado/a,2,6
+68,19,Femenino,Secundaria,Slovenia,5.7,TikTok,Si,5.4,5,En Relacion,4,8
+69,22,Masculino,Posgrado,Bulgaria,2.8,LinkedIn,No,7.2,8,Soltero/a,1,4
+70,20,Femenino,Pregrado,Estonia,4.5,Instagram,Si,5.9,6,Complicado/a,3,7
+71,18,Masculino,Secundaria,Latvia,5.4,Snapchat,Si,5.5,5,Soltero/a,4,8
+72,21,Femenino,Posgrado,Lithuania,3.2,Facebook,No,6.8,7,En Relacion,2,5
+73,19,Masculino,Pregrado,Ukraine,4.9,TikTok,Si,5.7,6,Complicado/a,3,7
+74,20,Femenino,Pregrado,Moldova,5.8,Instagram,Si,5.3,5,Soltero/a,4,8
+75,23,Masculino,Posgrado,Belarus,2.5,LinkedIn,No,7.3,8,En Relacion,1,4
+76,21,Femenino,Pregrado,Kazakhstan,4.6,Snapchat,Si,5.8,6,Soltero/a,3,7
+77,19,Masculino,Secundaria,Uzbekistan,5.5,TikTok,Si,5.4,5,Complicado/a,4,8
+78,22,Femenino,Posgrado,Kyrgyzstan,2.9,Facebook,No,7.0,7,En Relacion,2,5
+79,20,Masculino,Pregrado,Tajikistan,4.7,YouTube,Si,5.9,6,Soltero/a,3,7
+80,18,Femenino,Secundaria,Armenia,5.9,Instagram,Si,5.2,5,Complicado/a,4,9
+81,21,Masculino,Posgrado,Georgia,3.0,LinkedIn,No,7.1,8,En Relacion,1,4
+82,19,Femenino,Pregrado,Azerbaijan,4.8,TikTok,Si,5.7,6,Soltero/a,3,7
+83,20,Masculino,Pregrado,Cyprus,3.8,Facebook,No,6.6,7,Complicado/a,2,6
+84,22,Femenino,Posgrado,Malta,2.7,LinkedIn,No,7.2,8,En Relacion,1,4
+85,18,Masculino,Secundaria,Luxembourg,5.6,Snapchat,Si,5.3,5,Soltero/a,4,8
+86,21,Femenino,Pregrado,Monaco,4.5,Instagram,Si,5.8,6,Complicado/a,3,7
+87,19,Masculino,Secundaria,Andorra,5.3,TikTok,Si,5.5,5,En Relacion,4,8
+88,23,Femenino,Posgrado,San Marino,2.6,LinkedIn,No,7.3,8,Soltero/a,1,4
+89,20,Masculino,Pregrado,Vatican City,4.4,YouTube,Si,6.0,6,Complicado/a,3,7
+90,18,Femenino,Secundaria,Liechtenstein,5.8,Instagram,Si,5.2,5,Soltero/a,4,9
+91,22,Masculino,Posgrado,Montenegro,2.9,Facebook,No,7.0,7,En Relacion,2,5
+92,19,Femenino,Pregrado,Albania,4.7,TikTok,Si,5.8,6,Complicado/a,3,7
+93,21,Masculino,Pregrado,North Macedonia,3.7,Snapchat,No,6.5,7,Soltero/a,2,6
+94,20,Femenino,Secundaria,Kosovo,5.5,Instagram,Si,5.4,5,En Relacion,4,8
+95,23,Masculino,Posgrado,Bosnia,2.4,LinkedIn,No,7.4,8,Complicado/a,1,4
+96,19,Femenino,Pregrado,Qatar,4.9,TikTok,Si,5.7,6,Soltero/a,3,7
+97,18,Masculino,Secundaria,Kuwait,5.7,Snapchat,Si,5.3,5,En Relacion,4,8
+98,22,Femenino,Posgrado,Bahrain,2.8,LinkedIn,No,7.1,8,Complicado/a,1,4
+99,20,Masculino,Pregrado,Oman,4.6,Instagram,Si,5.9,6,Soltero/a,3,7
+100,21,Femenino,Pregrado,Jordan,5.4,TikTok,Si,5.5,5,En Relacion,4,8
+101,19,Masculino,Secundaria,Lebanon,5.8,YouTube,Si,5.2,5,Complicado/a,4,9
+102,23,Femenino,Posgrado,Iraq,2.5,LinkedIn,No,7.3,8,Soltero/a,1,4
+103,20,Masculino,Pregrado,Yemen,4.7,Facebook,Si,5.8,6,En Relacion,3,7
+104,18,Femenino,Secundaria,Syria,5.6,Instagram,Si,5.4,5,Soltero/a,4,8
+105,22,Masculino,Posgrado,Afghanistan,2.9,LinkedIn,No,7.0,7,Complicado/a,2,5
+106,19,Femenino,Pregrado,Pakistan,4.8,TikTok,Si,5.7,6,En Relacion,3,7
+107,21,Masculino,Pregrado,Nepal,3.8,YouTube,No,6.6,7,Soltero/a,2,6
+108,20,Femenino,Secundaria,Bhutan,5.5,Snapchat,Si,5.5,5,Complicado/a,4,8
+109,23,Masculino,Posgrado,Sri Lanka,2.6,LinkedIn,No,7.2,8,En Relacion,1,4
+110,19,Femenino,Pregrado,Maldives,4.9,Instagram,Si,5.8,6,Soltero/a,3,7
+111,20,Masculino,Pregrado,Bangladesh,6.1,Instagram,Si,6.2,5,Soltero/a,4,8
+112,21,Femenino,Pregrado,India,5.8,TikTok,Si,5.9,6,En Relacion,3,7
+113,19,Masculino,Pregrado,Nepal,4.9,Facebook,No,7.1,7,Soltero/a,2,5
+114,22,Femenino,Posgrado,Pakistan,5.5,Instagram,Si,6.0,5,Soltero/a,4,8
+115,20,Masculino,Pregrado,Sri Lanka,5.2,TikTok,Si,6.3,6,En Relacion,3,7
+116,19,Femenino,Pregrado,Maldives,4.8,Instagram,No,7.2,8,Soltero/a,2,5
+117,21,Masculino,Posgrado,Bangladesh,6.0,Facebook,Si,5.8,5,En Relacion,4,8
+118,20,Femenino,Pregrado,India,5.7,Instagram,Si,6.1,6,Soltero/a,3,7
+119,22,Masculino,Posgrado,Nepal,4.7,TikTok,No,7.3,7,Soltero/a,2,5
+120,19,Femenino,Pregrado,Pakistan,5.4,Instagram,Si,6.2,5,En Relacion,4,8
+121,20,Masculino,Pregrado,Sri Lanka,5.9,Facebook,Si,5.9,6,Soltero/a,3,7
+122,21,Femenino,Posgrado,Maldives,4.6,Instagram,No,7.4,8,En Relacion,2,5
+123,19,Masculino,Pregrado,Bangladesh,5.3,TikTok,Si,6.3,5,Soltero/a,4,8
+124,22,Femenino,Posgrado,India,5.8,Instagram,Si,5.8,6,En Relacion,3,7
+125,20,Masculino,Pregrado,Nepal,4.5,Facebook,No,7.5,7,Soltero/a,2,5
+126,21,Femenino,Posgrado,Pakistan,5.2,Instagram,Si,6.4,5,En Relacion,4,8
+127,19,Masculino,Pregrado,Sri Lanka,5.7,TikTok,Si,5.7,6,Soltero/a,3,7
+128,20,Femenino,Pregrado,Maldives,4.4,Instagram,No,7.6,8,En Relacion,2,5
+129,22,Masculino,Posgrado,Bangladesh,5.1,Facebook,Si,6.5,5,Soltero/a,4,8
+130,21,Femenino,Posgrado,India,5.6,Instagram,Si,5.6,6,En Relacion,3,7
+131,19,Masculino,Pregrado,Nepal,4.3,TikTok,No,7.7,7,Soltero/a,2,5
+132,20,Femenino,Pregrado,Pakistan,5.0,Instagram,Si,6.6,5,En Relacion,4,8
+133,22,Masculino,Posgrado,Sri Lanka,5.5,Facebook,Si,5.5,6,Soltero/a,3,7
+134,21,Femenino,Posgrado,Maldives,4.2,Instagram,No,7.8,8,En Relacion,2,5
+135,19,Masculino,Pregrado,Bangladesh,4.9,TikTok,Si,6.7,5,Soltero/a,4,8
+136,20,Femenino,Pregrado,India,5.4,Instagram,Si,5.4,6,En Relacion,3,7
+137,22,Masculino,Posgrado,Nepal,4.1,Facebook,No,7.9,7,Soltero/a,2,5
+138,21,Femenino,Posgrado,Pakistan,4.8,Instagram,Si,6.8,5,En Relacion,4,8
+139,19,Masculino,Pregrado,Sri Lanka,5.3,TikTok,Si,5.3,6,Soltero/a,3,7
+140,20,Femenino,Pregrado,Maldives,4.0,Instagram,No,8.0,8,En Relacion,2,5
+141,22,Masculino,Posgrado,Bangladesh,4.7,Facebook,Si,6.9,5,Soltero/a,4,8
+142,21,Femenino,Posgrado,India,5.2,Instagram,Si,5.2,6,En Relacion,3,7
+143,19,Masculino,Pregrado,Nepal,3.9,TikTok,No,8.1,7,Soltero/a,2,5
+144,20,Femenino,Pregrado,Pakistan,4.6,Instagram,Si,7.0,5,En Relacion,4,8
+145,22,Masculino,Posgrado,Sri Lanka,5.1,Facebook,Si,5.1,6,Soltero/a,3,7
+146,21,Femenino,Posgrado,Maldives,3.8,Instagram,No,8.2,8,En Relacion,2,5
+147,19,Masculino,Pregrado,Bangladesh,4.5,TikTok,Si,7.1,5,Soltero/a,4,8
+148,20,Femenino,Pregrado,India,5.0,Instagram,Si,5.0,6,En Relacion,3,7
+149,22,Masculino,Posgrado,Nepal,3.7,Facebook,No,8.3,7,Soltero/a,2,5
+150,21,Femenino,Posgrado,Pakistan,4.4,Instagram,Si,7.2,5,En Relacion,4,8
+151,19,Masculino,Pregrado,Sri Lanka,4.9,TikTok,Si,4.9,6,Soltero/a,3,7
+152,20,Femenino,Pregrado,Maldives,3.6,Instagram,No,8.4,8,En Relacion,2,5
+153,22,Masculino,Posgrado,Bangladesh,4.3,Facebook,Si,7.3,5,Soltero/a,4,8
+154,21,Femenino,Posgrado,India,4.8,Instagram,Si,4.8,6,En Relacion,3,7
+155,19,Masculino,Pregrado,Nepal,3.5,TikTok,No,8.5,7,Soltero/a,2,5
+156,20,Femenino,Pregrado,Pakistan,4.2,Instagram,Si,7.4,5,En Relacion,4,8
+157,22,Masculino,Posgrado,Sri Lanka,4.7,Facebook,Si,4.7,6,Soltero/a,3,7
+158,21,Femenino,Posgrado,Maldives,3.4,Instagram,No,8.6,8,En Relacion,2,5
+159,19,Masculino,Pregrado,Bangladesh,4.1,TikTok,Si,7.5,5,Soltero/a,4,8
+160,20,Femenino,Pregrado,India,4.6,Instagram,Si,4.6,6,En Relacion,3,7
+161,19,Femenino,Pregrado,Bangladesh,5.3,Instagram,Si,6.1,5,Soltero/a,3,7
+162,21,Masculino,Posgrado,India,4.8,Facebook,No,7.2,7,En Relacion,2,6
+163,20,Femenino,Pregrado,Nepal,5.5,TikTok,Si,5.9,6,Soltero/a,4,8
+164,22,Masculino,Posgrado,Pakistan,4.7,Instagram,Si,6.3,5,En Relacion,3,7
+165,19,Femenino,Pregrado,Sri Lanka,5.1,Facebook,No,7.0,7,Soltero/a,2,5
+166,21,Masculino,Posgrado,Maldives,5.4,TikTok,Si,6.0,6,En Relacion,4,8
+167,20,Femenino,Pregrado,Bangladesh,4.9,Instagram,Si,6.4,5,Soltero/a,3,7
+168,22,Masculino,Posgrado,India,5.2,Facebook,No,7.1,7,En Relacion,2,6
+169,19,Femenino,Pregrado,Nepal,5.6,TikTok,Si,5.8,6,Soltero/a,4,8
+170,21,Masculino,Posgrado,Pakistan,4.6,Instagram,Si,6.5,5,En Relacion,3,7
+171,20,Femenino,Pregrado,Sri Lanka,5.0,Facebook,No,7.3,7,Soltero/a,2,5
+172,22,Masculino,Posgrado,Maldives,5.3,TikTok,Si,5.7,6,En Relacion,4,8
+173,19,Femenino,Pregrado,Bangladesh,4.8,Instagram,Si,6.6,5,Soltero/a,3,7
+174,21,Masculino,Posgrado,India,5.1,Facebook,No,7.4,7,En Relacion,2,6
+175,20,Femenino,Pregrado,Nepal,5.7,TikTok,Si,5.6,6,Soltero/a,4,8
+176,22,Masculino,Posgrado,Pakistan,4.5,Instagram,Si,6.7,5,En Relacion,3,7
+177,19,Femenino,Pregrado,Sri Lanka,4.9,Facebook,No,7.5,7,Soltero/a,2,5
+178,21,Masculino,Posgrado,Maldives,5.2,TikTok,Si,5.5,6,En Relacion,4,8
+179,20,Femenino,Pregrado,Bangladesh,4.7,Instagram,Si,6.8,5,Soltero/a,3,7
+180,22,Masculino,Posgrado,India,5.0,Facebook,No,7.6,7,En Relacion,2,6
+181,19,Femenino,Pregrado,Nepal,5.8,TikTok,Si,5.4,6,Soltero/a,4,8
+182,21,Masculino,Posgrado,Pakistan,4.4,Instagram,Si,6.9,5,En Relacion,3,7
+183,20,Femenino,Pregrado,Sri Lanka,4.8,Facebook,No,7.7,7,Soltero/a,2,5
+184,22,Masculino,Posgrado,Maldives,5.1,TikTok,Si,5.3,6,En Relacion,4,8
+185,19,Femenino,Pregrado,Bangladesh,4.6,Instagram,Si,7.0,5,Soltero/a,3,7
+186,21,Masculino,Posgrado,India,4.9,Facebook,No,7.8,7,En Relacion,2,6
+187,20,Femenino,Pregrado,Nepal,5.9,TikTok,Si,5.2,6,Soltero/a,4,8
+188,22,Masculino,Posgrado,Pakistan,4.3,Instagram,Si,7.1,5,En Relacion,3,7
+189,19,Femenino,Pregrado,Sri Lanka,4.7,Facebook,No,7.9,7,Soltero/a,2,5
+190,21,Masculino,Posgrado,Maldives,5.0,TikTok,Si,5.1,6,En Relacion,4,8
+191,20,Femenino,Pregrado,Bangladesh,4.5,Instagram,Si,7.2,5,Soltero/a,3,7
+192,22,Masculino,Posgrado,India,4.8,Facebook,No,8.0,7,En Relacion,2,6
+193,19,Femenino,Pregrado,Nepal,6.0,TikTok,Si,5.0,6,Soltero/a,4,8
+194,21,Masculino,Posgrado,Pakistan,4.2,Instagram,Si,7.3,5,En Relacion,3,7
+195,20,Femenino,Pregrado,Sri Lanka,4.6,Facebook,No,8.1,7,Soltero/a,2,5
+196,22,Masculino,Posgrado,Maldives,4.9,TikTok,Si,4.9,6,En Relacion,4,8
+197,19,Femenino,Pregrado,Bangladesh,4.4,Instagram,Si,7.4,5,Soltero/a,3,7
+198,21,Masculino,Posgrado,India,4.7,Facebook,No,8.2,7,En Relacion,2,6
+199,20,Femenino,Pregrado,Nepal,6.1,TikTok,Si,4.8,6,Soltero/a,4,8
+200,22,Masculino,Posgrado,Pakistan,4.1,Instagram,Si,7.5,5,En Relacion,3,7
+201,19,Femenino,Pregrado,Sri Lanka,4.5,Facebook,No,8.3,7,Soltero/a,2,5
+202,21,Masculino,Posgrado,Maldives,4.8,TikTok,Si,4.7,6,En Relacion,4,8
+203,20,Femenino,Pregrado,Bangladesh,4.3,Instagram,Si,7.6,5,Soltero/a,3,7
+204,22,Masculino,Posgrado,India,4.6,Facebook,No,8.4,7,En Relacion,2,6
+205,19,Femenino,Pregrado,Nepal,6.2,TikTok,Si,4.6,6,Soltero/a,4,8
+206,21,Masculino,Posgrado,Pakistan,4.0,Instagram,Si,7.7,5,En Relacion,3,7
+207,20,Femenino,Pregrado,Sri Lanka,4.4,Facebook,No,8.5,7,Soltero/a,2,5
+208,22,Masculino,Posgrado,Maldives,4.7,TikTok,Si,4.5,6,En Relacion,4,8
+209,19,Femenino,Pregrado,Bangladesh,4.2,Instagram,Si,7.8,5,Soltero/a,3,7
+210,21,Masculino,Posgrado,India,4.5,Facebook,No,8.6,7,En Relacion,2,6
+211,20,Femenino,Pregrado,Nepal,6.3,TikTok,Si,4.4,6,Soltero/a,4,8
+212,22,Masculino,Posgrado,Pakistan,3.9,Instagram,Si,7.9,5,En Relacion,3,7
+213,19,Femenino,Pregrado,Sri Lanka,4.3,Facebook,No,8.7,7,Soltero/a,2,5
+214,21,Masculino,Posgrado,Maldives,4.6,TikTok,Si,4.3,6,En Relacion,4,8
+215,20,Femenino,Pregrado,Bangladesh,4.1,Instagram,Si,8.0,5,Soltero/a,3,7
+216,22,Masculino,Posgrado,India,4.4,Facebook,No,8.8,7,En Relacion,2,6
+217,19,Femenino,Pregrado,Nepal,6.4,TikTok,Si,4.2,6,Soltero/a,4,8
+218,21,Masculino,Posgrado,Pakistan,3.8,Instagram,Si,8.1,5,En Relacion,3,7
+219,20,Femenino,Pregrado,Sri Lanka,4.2,Facebook,No,8.9,7,Soltero/a,2,5
+220,22,Masculino,Posgrado,Maldives,4.5,TikTok,Si,4.1,6,En Relacion,4,8
+221,19,Femenino,Pregrado,USA,6.5,Instagram,Si,6.0,5,Soltero/a,4,9
+222,21,Masculino,Posgrado,UK,5.8,TikTok,Si,6.5,6,En Relacion,3,7
+223,20,Femenino,Pregrado,Australia,4.5,Instagram,No,7.5,8,Soltero/a,2,5
+224,22,Masculino,Posgrado,Germany,4.2,Facebook,No,7.8,7,En Relacion,2,4
+225,19,Femenino,Pregrado,Japan,3.8,LINE,No,7.9,8,Soltero/a,1,3
+226,21,Masculino,Posgrado,Italy,5.5,Instagram,Si,6.8,6,Soltero/a,3,7
+227,20,Femenino,Pregrado,South Korea,5.2,KakaoTalk,Si,6.5,6,En Relacion,3,6
+228,22,Masculino,Posgrado,Russia,4.8,VKontakte,No,7.2,7,Soltero/a,2,5
+229,19,Femenino,Pregrado,USA,7.0,TikTok,Si,5.8,4,En Relacion,4,9
+230,21,Masculino,Posgrado,UK,5.5,Instagram,Si,6.7,6,Soltero/a,3,7
+231,20,Femenino,Pregrado,Australia,4.7,Facebook,No,7.4,7,En Relacion,2,5
+232,22,Masculino,Posgrado,Germany,4.0,Instagram,No,7.9,8,Soltero/a,1,4
+233,19,Femenino,Pregrado,Japan,3.5,LINE,No,8.0,8,Soltero/a,1,3
+234,21,Masculino,Posgrado,Italy,5.7,TikTok,Si,6.5,5,En Relacion,3,8
+235,20,Femenino,Pregrado,South Korea,5.0,KakaoTalk,Si,6.8,6,Soltero/a,3,6
+236,22,Masculino,Posgrado,Russia,4.5,VKontakte,No,7.4,7,En Relacion,2,5
+237,19,Femenino,Pregrado,USA,6.8,Instagram,Si,5.9,4,Soltero/a,4,9
+238,21,Masculino,Posgrado,UK,5.6,Facebook,Si,6.6,6,En Relacion,3,7
+239,20,Femenino,Pregrado,Australia,4.6,Instagram,No,7.3,7,Soltero/a,2,5
+240,22,Masculino,Posgrado,Germany,4.1,Facebook,No,7.7,8,En Relacion,2,4
+241,19,Femenino,Pregrado,Japan,3.7,LINE,No,7.8,8,Soltero/a,1,3
+242,21,Masculino,Posgrado,Italy,5.4,Instagram,Si,6.7,5,Soltero/a,3,7
+243,20,Femenino,Pregrado,South Korea,5.1,KakaoTalk,Si,6.6,6,En Relacion,3,6
+244,22,Masculino,Posgrado,Russia,4.7,VKontakte,No,7.3,7,Soltero/a,2,5
+245,19,Femenino,Pregrado,USA,6.9,TikTok,Si,5.7,4,En Relacion,4,9
+246,21,Masculino,Posgrado,UK,5.7,Instagram,Si,6.4,6,Soltero/a,3,7
+247,20,Femenino,Pregrado,Australia,4.8,Facebook,No,7.2,7,En Relacion,2,5
+248,22,Masculino,Posgrado,Germany,3.9,Instagram,No,7.8,8,Soltero/a,1,4
+249,19,Femenino,Pregrado,Japan,3.6,LINE,No,8.1,8,Soltero/a,1,3
+250,21,Masculino,Posgrado,Italy,5.6,TikTok,Si,6.6,5,En Relacion,3,8
+251,20,Femenino,Pregrado,South Korea,4.9,KakaoTalk,Si,6.9,6,Soltero/a,3,6
+252,22,Masculino,Posgrado,Russia,4.6,VKontakte,No,7.5,7,En Relacion,2,5
+253,19,Femenino,Pregrado,USA,6.7,Instagram,Si,5.8,4,Soltero/a,4,9
+254,21,Masculino,Posgrado,UK,5.4,Facebook,Si,6.5,6,En Relacion,3,7
+255,20,Femenino,Pregrado,Australia,4.4,Instagram,No,7.4,7,Soltero/a,2,5
+256,22,Masculino,Posgrado,Germany,4.0,Facebook,No,7.6,8,En Relacion,2,4
+257,19,Femenino,Pregrado,Japan,3.4,LINE,No,8.2,8,Soltero/a,1,3
+258,21,Masculino,Posgrado,Italy,5.3,Instagram,Si,6.8,5,Soltero/a,3,7
+259,20,Femenino,Pregrado,South Korea,5.0,KakaoTalk,Si,6.7,6,En Relacion,3,6
+260,22,Masculino,Posgrado,Russia,4.4,VKontakte,No,7.6,7,Soltero/a,2,5
+261,19,Femenino,Pregrado,USA,6.6,TikTok,Si,5.6,4,En Relacion,4,9
+262,21,Masculino,Posgrado,UK,5.3,Instagram,Si,6.3,6,Soltero/a,3,7
+263,20,Femenino,Pregrado,Australia,4.3,Facebook,No,7.5,7,En Relacion,2,5
+264,22,Masculino,Posgrado,Germany,3.8,Instagram,No,7.7,8,Soltero/a,1,4
+265,19,Femenino,Pregrado,Japan,3.3,LINE,No,8.3,8,Soltero/a,1,3
+266,21,Masculino,Posgrado,Italy,5.2,TikTok,Si,6.9,5,En Relacion,3,8
+267,20,Femenino,Pregrado,South Korea,4.8,KakaoTalk,Si,7.0,6,Soltero/a,3,6
+268,22,Masculino,Posgrado,Russia,4.3,VKontakte,No,7.7,7,En Relacion,2,5
+269,19,Femenino,Pregrado,USA,6.4,Instagram,Si,5.7,4,Soltero/a,4,9
+270,21,Masculino,Posgrado,UK,5.2,Facebook,Si,6.4,6,En Relacion,3,7
+271,20,Femenino,Pregrado,Australia,4.5,Instagram,No,7.3,7,Soltero/a,2,5
+272,22,Masculino,Posgrado,Germany,3.7,Facebook,No,7.8,8,En Relacion,1,4
+273,19,Femenino,Pregrado,Japan,3.2,LINE,No,8.4,8,Soltero/a,1,3
+274,21,Masculino,Posgrado,Italy,5.4,Instagram,Si,6.7,5,Soltero/a,3,7
+275,20,Femenino,Pregrado,South Korea,4.7,KakaoTalk,Si,7.1,6,En Relacion,3,6
+276,22,Masculino,Posgrado,Russia,4.2,VKontakte,No,7.8,7,Soltero/a,2,5
+277,19,Femenino,Pregrado,USA,6.6,TikTok,Si,5.5,4,En Relacion,4,9
+278,21,Masculino,Posgrado,UK,5.1,Instagram,Si,6.5,6,Soltero/a,3,7
+279,20,Femenino,Pregrado,Australia,4.4,Facebook,No,7.4,7,En Relacion,2,5
+280,22,Masculino,Posgrado,Germany,3.6,Instagram,No,7.9,8,Soltero/a,1,4
+281,19,Femenino,Pregrado,Japan,3.1,LINE,No,8.5,8,Soltero/a,1,3
+282,21,Masculino,Posgrado,Italy,5.3,TikTok,Si,6.8,5,En Relacion,3,8
+283,20,Femenino,Pregrado,South Korea,4.6,KakaoTalk,Si,7.2,6,Soltero/a,3,6
+284,22,Masculino,Posgrado,Russia,4.1,VKontakte,No,7.9,7,En Relacion,2,5
+285,19,Femenino,Pregrado,USA,6.7,Instagram,Si,5.4,4,Soltero/a,4,9
+286,21,Masculino,Posgrado,UK,5.0,Facebook,Si,6.6,6,En Relacion,3,7
+287,20,Femenino,Pregrado,Australia,4.3,Instagram,No,7.5,7,Soltero/a,2,5
+288,22,Masculino,Posgrado,Germany,3.5,Facebook,No,8.0,8,En Relacion,1,4
+289,19,Femenino,Pregrado,Japan,3.0,LINE,No,8.6,8,Soltero/a,1,3
+290,21,Masculino,Posgrado,Italy,5.2,Instagram,Si,6.9,5,Soltero/a,3,7
+291,20,Femenino,Pregrado,South Korea,4.5,KakaoTalk,Si,7.3,6,En Relacion,3,6
+292,22,Masculino,Posgrado,Russia,4.0,VKontakte,No,8.0,7,Soltero/a,2,5
+293,19,Femenino,Pregrado,USA,6.8,TikTok,Si,5.3,4,En Relacion,4,9
+294,21,Masculino,Posgrado,UK,4.9,Instagram,Si,6.7,6,Soltero/a,3,7
+295,20,Femenino,Pregrado,Australia,4.2,Facebook,No,7.6,7,En Relacion,2,5
+296,22,Masculino,Posgrado,Germany,3.4,Instagram,No,8.1,8,Soltero/a,1,4
+297,19,Femenino,Pregrado,Japan,2.9,LINE,No,8.7,8,Soltero/a,1,3
+298,21,Masculino,Posgrado,Italy,5.1,TikTok,Si,7.0,5,En Relacion,3,8
+299,20,Femenino,Pregrado,South Korea,4.4,KakaoTalk,Si,7.4,6,Soltero/a,3,6
+300,22,Masculino,Posgrado,Russia,3.9,VKontakte,No,8.1,7,En Relacion,2,5
+301,19,Femenino,Pregrado,USA,6.9,Instagram,Si,5.2,4,Soltero/a,4,9
+302,21,Masculino,Posgrado,UK,4.8,Facebook,Si,6.8,6,En Relacion,3,7
+303,20,Femenino,Pregrado,Australia,4.1,Instagram,No,7.7,7,Soltero/a,2,5
+304,22,Masculino,Posgrado,Germany,3.3,Facebook,No,8.2,8,En Relacion,1,4
+305,19,Femenino,Pregrado,Japan,2.8,LINE,No,8.8,8,Soltero/a,1,3
+306,21,Masculino,Posgrado,Italy,5.0,Instagram,Si,7.1,5,Soltero/a,3,7
+307,20,Femenino,Pregrado,South Korea,4.3,KakaoTalk,Si,7.5,6,En Relacion,3,6
+308,22,Masculino,Posgrado,Russia,3.8,VKontakte,No,8.2,7,Soltero/a,2,5
+309,19,Femenino,Pregrado,USA,7.0,TikTok,Si,5.1,4,En Relacion,4,9
+310,21,Masculino,Posgrado,UK,4.7,Instagram,Si,6.9,6,Soltero/a,3,7
+311,20,Femenino,Pregrado,Australia,4.0,Facebook,No,7.8,7,En Relacion,2,5
+312,22,Masculino,Posgrado,Germany,3.2,Instagram,No,8.3,8,Soltero/a,1,4
+313,19,Femenino,Pregrado,Japan,2.7,LINE,No,8.9,8,Soltero/a,1,3
+314,21,Masculino,Posgrado,Italy,4.9,TikTok,Si,7.2,5,En Relacion,3,8
+315,20,Femenino,Pregrado,South Korea,4.2,KakaoTalk,Si,7.6,6,Soltero/a,3,6
+316,22,Masculino,Posgrado,Russia,3.7,VKontakte,No,8.3,7,En Relacion,2,5
+317,19,Femenino,Pregrado,USA,7.1,Instagram,Si,5.0,4,Soltero/a,4,9
+318,21,Masculino,Posgrado,UK,4.6,Facebook,Si,7.0,6,En Relacion,3,7
+319,20,Femenino,Pregrado,Australia,3.9,Instagram,No,7.9,7,Soltero/a,2,5
+320,22,Masculino,Posgrado,Germany,3.1,Facebook,No,8.4,8,En Relacion,1,4
+321,19,Femenino,Pregrado,Spain,5.2,Instagram,Si,6.8,6,Soltero/a,3,7
+322,21,Masculino,Posgrado,Denmark,4.1,Facebook,No,7.8,8,En Relacion,2,4
+323,20,Femenino,Pregrado,Ireland,5.0,Instagram,Si,7.0,7,Soltero/a,3,6
+324,22,Masculino,Posgrado,India,5.8,WhatsApp,Si,6.5,5,En Relacion,4,8
+325,19,Femenino,Pregrado,Switzerland,4.0,Instagram,No,7.9,8,Soltero/a,2,4
+326,21,Masculino,Posgrado,Turkey,5.5,Instagram,Si,6.7,6,Soltero/a,3,7
+327,20,Femenino,Pregrado,USA,6.8,TikTok,Si,5.5,5,En Relacion,4,9
+328,22,Masculino,Posgrado,Mexico,5.6,WhatsApp,Si,6.6,6,Soltero/a,3,7
+329,19,Femenino,Pregrado,France,4.5,Instagram,No,7.5,7,En Relacion,2,5
+330,21,Masculino,Posgrado,Canada,5.3,Instagram,Si,6.9,6,Soltero/a,3,7
+331,20,Femenino,Pregrado,Spain,5.1,TikTok,Si,6.7,6,Soltero/a,3,7
+332,22,Masculino,Posgrado,Denmark,3.9,Facebook,No,7.9,8,En Relacion,2,4
+333,19,Femenino,Pregrado,Ireland,4.8,Instagram,Si,7.1,7,Soltero/a,3,6
+334,21,Masculino,Posgrado,India,5.9,WhatsApp,Si,6.4,5,En Relacion,4,8
+335,20,Femenino,Pregrado,Switzerland,3.8,Instagram,No,8.0,8,Soltero/a,2,4
+336,22,Masculino,Posgrado,Turkey,5.4,TikTok,Si,6.8,6,Soltero/a,3,7
+337,19,Femenino,Pregrado,USA,6.9,Instagram,Si,5.4,5,En Relacion,4,9
+338,21,Masculino,Posgrado,Mexico,5.7,WhatsApp,Si,6.5,6,Soltero/a,3,7
+339,20,Femenino,Pregrado,France,4.4,Instagram,No,7.6,7,En Relacion,2,5
+340,22,Masculino,Posgrado,Canada,5.2,TikTok,Si,7.0,6,Soltero/a,3,7
+341,19,Femenino,Pregrado,Spain,5.0,Instagram,Si,6.9,6,Soltero/a,3,7
+342,21,Masculino,Posgrado,Denmark,3.8,Facebook,No,8.0,8,En Relacion,2,4
+343,20,Femenino,Pregrado,Ireland,4.7,TikTok,Si,7.2,7,Soltero/a,3,6
+344,22,Masculino,Posgrado,India,6.0,WhatsApp,Si,6.3,5,En Relacion,4,8
+345,19,Femenino,Pregrado,Switzerland,3.7,Instagram,No,8.1,8,Soltero/a,2,4
+346,21,Masculino,Posgrado,Turkey,5.3,Instagram,Si,6.9,6,Soltero/a,3,7
+347,20,Femenino,Pregrado,USA,7.0,TikTok,Si,5.3,5,En Relacion,4,9
+348,22,Masculino,Posgrado,Mexico,5.8,WhatsApp,Si,6.4,6,Soltero/a,3,7
+349,19,Femenino,Pregrado,France,4.3,Instagram,No,7.7,7,En Relacion,2,5
+350,21,Masculino,Posgrado,Canada,5.1,Instagram,Si,7.1,6,Soltero/a,3,7
+351,20,Femenino,Pregrado,Spain,4.9,TikTok,Si,7.0,6,Soltero/a,3,7
+352,22,Masculino,Posgrado,Denmark,3.7,Facebook,No,8.1,8,En Relacion,2,4
+353,19,Femenino,Pregrado,Ireland,4.6,Instagram,Si,7.3,7,Soltero/a,3,6
+354,21,Masculino,Posgrado,India,6.1,WhatsApp,Si,6.2,5,En Relacion,4,8
+355,20,Femenino,Pregrado,Switzerland,3.6,Instagram,No,8.2,8,Soltero/a,2,4
+356,22,Masculino,Posgrado,Turkey,5.2,TikTok,Si,7.0,6,Soltero/a,3,7
+357,19,Femenino,Pregrado,USA,7.1,Instagram,Si,5.2,5,En Relacion,4,9
+358,21,Masculino,Posgrado,Mexico,5.9,WhatsApp,Si,6.3,6,Soltero/a,3,7
+359,20,Femenino,Pregrado,France,4.2,Instagram,No,7.8,7,En Relacion,2,5
+360,22,Masculino,Posgrado,Canada,5.0,TikTok,Si,7.2,6,Soltero/a,3,7
+361,19,Femenino,Pregrado,Spain,4.8,Instagram,Si,7.1,6,Soltero/a,3,7
+362,21,Masculino,Posgrado,Denmark,3.6,Facebook,No,8.2,8,En Relacion,2,4
+363,20,Femenino,Pregrado,Ireland,4.5,TikTok,Si,7.4,7,Soltero/a,3,6
+364,22,Masculino,Posgrado,India,6.2,WhatsApp,Si,6.1,5,En Relacion,4,8
+365,19,Femenino,Pregrado,Switzerland,3.5,Instagram,No,8.3,8,Soltero/a,2,4
+366,21,Masculino,Posgrado,Turkey,5.1,Instagram,Si,7.1,6,Soltero/a,3,7
+367,20,Femenino,Pregrado,USA,7.2,TikTok,Si,5.1,5,En Relacion,4,9
+368,22,Masculino,Posgrado,Mexico,6.0,WhatsApp,Si,6.2,6,Soltero/a,3,7
+369,19,Femenino,Pregrado,France,4.1,Instagram,No,7.9,7,En Relacion,2,5
+370,21,Masculino,Posgrado,Canada,4.9,Instagram,Si,7.3,6,Soltero/a,3,7
+371,20,Femenino,Pregrado,Spain,4.7,TikTok,Si,7.2,6,Soltero/a,3,7
+372,22,Masculino,Posgrado,Denmark,3.5,Facebook,No,8.3,8,En Relacion,2,4
+373,19,Femenino,Pregrado,Ireland,4.4,Instagram,Si,7.5,7,Soltero/a,3,6
+374,21,Masculino,Posgrado,India,6.3,WhatsApp,Si,6.0,5,En Relacion,4,8
+375,20,Femenino,Pregrado,Switzerland,3.4,Instagram,No,8.4,8,Soltero/a,2,4
+376,22,Masculino,Posgrado,Turkey,5.0,TikTok,Si,7.2,6,Soltero/a,3,7
+377,19,Femenino,Pregrado,USA,7.3,Instagram,Si,5.0,5,En Relacion,4,9
+378,21,Masculino,Posgrado,Mexico,6.1,WhatsApp,Si,6.1,6,Soltero/a,3,7
+379,20,Femenino,Pregrado,France,4.0,Instagram,No,8.0,7,En Relacion,2,5
+380,22,Masculino,Posgrado,Canada,4.8,TikTok,Si,7.4,6,Soltero/a,3,7
+381,19,Femenino,Pregrado,Spain,4.6,Instagram,Si,7.3,6,Soltero/a,3,7
+382,21,Masculino,Posgrado,Denmark,3.4,Facebook,No,8.4,8,En Relacion,2,4
+383,20,Femenino,Pregrado,Ireland,4.3,TikTok,Si,7.6,7,Soltero/a,3,6
+384,22,Masculino,Posgrado,India,6.4,WhatsApp,Si,5.9,5,En Relacion,4,8
+385,19,Femenino,Pregrado,Switzerland,3.3,Instagram,No,8.5,8,Soltero/a,2,4
+386,21,Masculino,Posgrado,Turkey,4.9,Instagram,Si,7.3,6,Soltero/a,3,7
+387,20,Femenino,Pregrado,USA,7.4,TikTok,Si,4.9,5,En Relacion,4,9
+388,22,Masculino,Posgrado,Mexico,6.2,WhatsApp,Si,6.0,6,Soltero/a,3,7
+389,19,Femenino,Pregrado,France,3.9,Instagram,No,8.1,7,En Relacion,2,5
+390,21,Masculino,Posgrado,Canada,4.7,Instagram,Si,7.5,6,Soltero/a,3,7
+391,20,Femenino,Pregrado,Spain,4.5,TikTok,Si,7.4,6,Soltero/a,3,7
+392,22,Masculino,Posgrado,Denmark,3.3,Facebook,No,8.5,8,En Relacion,2,4
+393,19,Femenino,Pregrado,Ireland,4.2,Instagram,Si,7.7,7,Soltero/a,3,6
+394,21,Masculino,Posgrado,India,6.5,WhatsApp,Si,5.8,5,En Relacion,4,8
+395,20,Femenino,Pregrado,Switzerland,3.2,Instagram,No,8.6,8,Soltero/a,2,4
+396,22,Masculino,Posgrado,Turkey,4.8,TikTok,Si,7.4,6,Soltero/a,3,7
+397,19,Femenino,Pregrado,USA,7.5,Instagram,Si,4.8,5,En Relacion,4,9
+398,21,Masculino,Posgrado,Mexico,6.3,WhatsApp,Si,5.9,6,Soltero/a,3,7
+399,20,Femenino,Pregrado,France,3.8,Instagram,No,8.2,7,En Relacion,2,5
+400,22,Masculino,Posgrado,Canada,4.6,TikTok,Si,7.6,6,Soltero/a,3,7
+401,19,Femenino,Pregrado,Spain,4.4,Instagram,Si,7.5,6,Soltero/a,3,7
+402,21,Masculino,Posgrado,Denmark,3.2,Facebook,No,8.6,8,En Relacion,2,4
+403,20,Femenino,Pregrado,Ireland,4.1,TikTok,Si,7.8,7,Soltero/a,3,6
+404,22,Masculino,Posgrado,India,6.6,WhatsApp,Si,5.7,5,En Relacion,4,8
+405,19,Femenino,Pregrado,Switzerland,3.1,Instagram,No,8.7,8,Soltero/a,2,4
+406,21,Masculino,Posgrado,Turkey,4.7,Instagram,Si,7.5,6,Soltero/a,3,7
+407,20,Femenino,Pregrado,USA,7.6,TikTok,Si,4.7,5,En Relacion,4,9
+408,22,Masculino,Posgrado,Mexico,6.4,WhatsApp,Si,5.8,6,Soltero/a,3,7
+409,19,Femenino,Pregrado,France,3.7,Instagram,No,8.3,7,En Relacion,2,5
+410,21,Masculino,Posgrado,Canada,4.5,Instagram,Si,7.7,6,Soltero/a,3,7
+411,20,Femenino,Pregrado,Spain,4.3,TikTok,Si,7.6,6,Soltero/a,3,7
+412,22,Masculino,Posgrado,Denmark,3.1,Facebook,No,8.7,8,En Relacion,2,4
+413,19,Femenino,Pregrado,Ireland,4.0,Instagram,Si,7.9,7,Soltero/a,3,6
+414,21,Masculino,Posgrado,India,6.7,WhatsApp,Si,5.6,5,En Relacion,4,8
+415,20,Femenino,Pregrado,Switzerland,3.0,Instagram,No,8.8,8,Soltero/a,2,4
+416,22,Masculino,Posgrado,Turkey,4.6,TikTok,Si,7.6,6,Soltero/a,3,7
+417,19,Femenino,Pregrado,USA,7.7,Instagram,Si,4.6,5,En Relacion,4,9
+418,21,Masculino,Posgrado,Mexico,6.5,WhatsApp,Si,5.7,6,Soltero/a,3,7
+419,20,Femenino,Pregrado,France,3.6,Instagram,No,8.4,7,En Relacion,2,5
+420,22,Masculino,Posgrado,Canada,4.4,TikTok,Si,7.8,6,Soltero/a,3,7
+421,19,Femenino,Pregrado,Spain,4.2,Instagram,Si,7.7,6,Soltero/a,3,7
+422,21,Masculino,Posgrado,Denmark,3.0,Facebook,No,8.8,8,En Relacion,2,4
+423,20,Femenino,Pregrado,Ireland,3.9,TikTok,Si,8.0,7,Soltero/a,3,6
+424,22,Masculino,Posgrado,India,6.8,WhatsApp,Si,5.5,5,En Relacion,4,8
+425,19,Femenino,Pregrado,Switzerland,2.9,Instagram,No,8.9,8,Soltero/a,2,4
+426,21,Masculino,Posgrado,Turkey,4.5,Instagram,Si,7.7,6,Soltero/a,3,7
+427,20,Femenino,Pregrado,USA,7.8,TikTok,Si,4.5,5,En Relacion,4,9
+428,22,Masculino,Posgrado,Mexico,6.6,WhatsApp,Si,5.6,6,Soltero/a,3,7
+429,19,Femenino,Pregrado,France,3.5,Instagram,No,8.5,7,En Relacion,2,5
+430,21,Masculino,Posgrado,Canada,4.3,Instagram,Si,7.9,6,Soltero/a,3,7
+431,20,Femenino,Pregrado,Spain,4.1,TikTok,Si,7.8,6,Soltero/a,3,7
+432,22,Masculino,Posgrado,Denmark,2.9,Facebook,No,8.9,8,En Relacion,2,4
+433,19,Femenino,Pregrado,Ireland,3.8,Instagram,Si,8.1,7,Soltero/a,3,6
+434,21,Masculino,Posgrado,India,6.9,WhatsApp,Si,5.4,5,En Relacion,4,8
+435,20,Femenino,Pregrado,Switzerland,2.8,Instagram,No,9.0,8,Soltero/a,2,4
+436,22,Masculino,Posgrado,Turkey,4.4,TikTok,Si,7.8,6,Soltero/a,3,7
+437,19,Femenino,Pregrado,USA,7.9,Instagram,Si,4.4,5,En Relacion,4,9
+438,21,Masculino,Posgrado,Mexico,6.7,WhatsApp,Si,5.5,6,Soltero/a,3,7
+439,20,Femenino,Pregrado,France,3.4,Instagram,No,8.6,7,En Relacion,2,5
+440,22,Masculino,Posgrado,Canada,4.2,TikTok,Si,8.0,6,Soltero/a,3,7
+441,19,Femenino,Pregrado,Spain,4.0,Instagram,Si,7.9,6,Soltero/a,3,7
+442,21,Masculino,Posgrado,Denmark,2.8,Facebook,No,9.0,8,En Relacion,2,4
+443,20,Femenino,Pregrado,Ireland,3.7,TikTok,Si,8.2,7,Soltero/a,3,6
+444,22,Masculino,Posgrado,India,7.0,WhatsApp,Si,5.3,5,En Relacion,4,8
+445,19,Femenino,Pregrado,Switzerland,2.7,Instagram,No,9.1,8,Soltero/a,2,4
+446,21,Masculino,Posgrado,Turkey,4.3,Instagram,Si,7.9,6,Soltero/a,3,7
+447,20,Femenino,Pregrado,USA,8.0,TikTok,Si,4.3,5,En Relacion,4,9
+448,22,Masculino,Posgrado,Mexico,6.8,WhatsApp,Si,5.4,6,Soltero/a,3,7
+449,19,Femenino,Pregrado,France,3.3,Instagram,No,8.7,7,En Relacion,2,5
+450,21,Masculino,Posgrado,Canada,4.1,Instagram,Si,8.1,6,Soltero/a,3,7
+451,20,Femenino,Pregrado,Spain,3.9,TikTok,Si,8.0,6,Soltero/a,3,7
+452,22,Masculino,Posgrado,Denmark,2.7,Facebook,No,9.1,8,En Relacion,2,4
+453,19,Femenino,Pregrado,Ireland,3.6,Instagram,Si,8.3,7,Soltero/a,3,6
+454,21,Masculino,Posgrado,India,7.1,WhatsApp,Si,5.2,5,En Relacion,4,8
+455,20,Femenino,Pregrado,Switzerland,2.6,Instagram,No,9.2,8,Soltero/a,2,4
+456,22,Masculino,Posgrado,Turkey,4.2,TikTok,Si,8.0,6,Soltero/a,3,7
+457,19,Femenino,Pregrado,USA,8.1,Instagram,Si,4.2,5,En Relacion,4,9
+458,21,Masculino,Posgrado,Mexico,6.9,WhatsApp,Si,5.3,6,Soltero/a,3,7
+459,20,Femenino,Pregrado,France,3.2,Instagram,No,8.8,7,En Relacion,2,5
+460,22,Masculino,Posgrado,Canada,4.0,TikTok,Si,8.2,6,Soltero/a,3,7
+461,19,Femenino,Pregrado,Spain,3.8,Instagram,Si,8.1,6,Soltero/a,3,7
+462,21,Masculino,Posgrado,Denmark,2.6,Facebook,No,9.2,8,En Relacion,2,4
+463,20,Femenino,Pregrado,Ireland,3.5,TikTok,Si,8.4,7,Soltero/a,3,6
+464,22,Masculino,Posgrado,India,7.2,WhatsApp,Si,5.1,5,En Relacion,4,8
+465,19,Femenino,Pregrado,Switzerland,2.5,Instagram,No,9.3,8,Soltero/a,2,4
+466,21,Masculino,Posgrado,Turkey,4.1,Instagram,Si,8.1,6,Soltero/a,3,7
+467,20,Femenino,Pregrado,USA,8.2,TikTok,Si,4.1,5,En Relacion,4,9
+468,22,Masculino,Posgrado,Mexico,7.0,WhatsApp,Si,5.2,6,Soltero/a,3,7
+469,19,Femenino,Pregrado,France,3.1,Instagram,No,8.9,7,En Relacion,2,5
+470,21,Masculino,Posgrado,Canada,3.9,Instagram,Si,8.3,6,Soltero/a,3,7
+471,20,Femenino,Pregrado,Spain,3.7,TikTok,Si,8.2,6,Soltero/a,3,7
+472,22,Masculino,Posgrado,Denmark,2.5,Facebook,No,9.3,8,En Relacion,2,4
+473,19,Femenino,Pregrado,Ireland,3.4,Instagram,Si,8.5,7,Soltero/a,3,6
+474,21,Masculino,Posgrado,India,7.3,WhatsApp,Si,5.0,5,En Relacion,4,8
+475,20,Femenino,Pregrado,Switzerland,2.4,Instagram,No,9.4,8,Soltero/a,2,4
+476,22,Masculino,Posgrado,Turkey,4.0,TikTok,Si,8.2,6,Soltero/a,3,7
+477,19,Femenino,Pregrado,USA,8.3,Instagram,Si,4.0,5,En Relacion,4,9
+478,21,Masculino,Posgrado,Mexico,7.1,WhatsApp,Si,5.1,6,Soltero/a,3,7
+479,20,Femenino,Pregrado,France,3.0,Instagram,No,9.0,7,En Relacion,2,5
+480,22,Masculino,Posgrado,Canada,3.8,TikTok,Si,8.4,6,Soltero/a,3,7
+481,19,Femenino,Pregrado,Spain,3.6,Instagram,Si,8.3,6,Soltero/a,3,7
+482,21,Masculino,Posgrado,Denmark,2.4,Facebook,No,9.4,8,En Relacion,2,4
+483,20,Femenino,Pregrado,Ireland,3.3,TikTok,Si,8.6,7,Soltero/a,3,6
+484,22,Masculino,Posgrado,India,7.4,WhatsApp,Si,4.9,5,En Relacion,4,8
+485,19,Femenino,Pregrado,Switzerland,2.3,Instagram,No,9.5,8,Soltero/a,2,4
+486,21,Masculino,Posgrado,Turkey,3.9,Instagram,Si,8.3,6,Soltero/a,3,7
+487,20,Femenino,Pregrado,USA,8.4,TikTok,Si,3.9,5,En Relacion,4,9
+488,22,Masculino,Posgrado,Mexico,7.2,WhatsApp,Si,5.0,6,Soltero/a,3,7
+489,19,Femenino,Pregrado,France,2.9,Instagram,No,9.1,7,En Relacion,2,5
+490,21,Masculino,Posgrado,Canada,3.7,Instagram,Si,8.5,6,Soltero/a,3,7
+491,20,Femenino,Pregrado,Spain,3.5,TikTok,Si,8.4,6,Soltero/a,3,7
+492,22,Masculino,Posgrado,Denmark,2.3,Facebook,No,9.5,8,En Relacion,2,4
+493,19,Femenino,Pregrado,Ireland,3.2,Instagram,Si,8.7,7,Soltero/a,3,6
+494,21,Masculino,Posgrado,India,7.5,WhatsApp,Si,4.8,5,En Relacion,4,8
+495,20,Femenino,Pregrado,Switzerland,2.2,Instagram,No,9.6,8,Soltero/a,2,4
+496,22,Masculino,Posgrado,Turkey,3.8,TikTok,Si,8.4,6,Soltero/a,3,7
+497,19,Femenino,Pregrado,USA,8.5,Instagram,Si,3.8,5,En Relacion,4,9
+498,21,Masculino,Posgrado,Mexico,7.3,WhatsApp,Si,4.9,6,Soltero/a,3,7
+499,20,Femenino,Pregrado,France,2.8,Instagram,No,9.2,7,En Relacion,2,5
+500,22,Masculino,Posgrado,Canada,3.6,TikTok,Si,8.6,6,Soltero/a,3,7
+501,19,Femenino,Pregrado,Brazil,6.2,WhatsApp,Si,6.3,6,Soltero/a,3,7
+502,21,Masculino,Posgrado,China,4.5,WeChat,No,7.8,7,En Relacion,2,5
+503,20,Femenino,Pregrado,Netherlands,3.8,Instagram,No,8.2,8,Soltero/a,2,4
+504,22,Masculino,Posgrado,New Zealand,4.7,Instagram,Si,7.5,7,En Relacion,3,6
+505,19,Femenino,Pregrado,Singapore,5.1,TikTok,Si,7.0,6,Soltero/a,3,7
+506,21,Masculino,Posgrado,Malaysia,5.5,WhatsApp,Si,6.8,6,Soltero/a,3,7
+507,20,Femenino,Pregrado,UAE,6.5,Instagram,Si,6.5,5,En Relacion,4,8
+508,22,Masculino,Posgrado,Poland,4.2,Facebook,No,7.9,7,Soltero/a,2,5
+509,19,Femenino,Pregrado,India,6.8,WhatsApp,Si,6.0,5,En Relacion,4,8
+510,21,Masculino,Posgrado,Canada,4.8,Instagram,Si,7.4,7,Soltero/a,3,6
+511,20,Femenino,Pregrado,Brazil,6.1,Instagram,Si,6.4,6,Soltero/a,3,7
+512,22,Masculino,Posgrado,China,4.4,WeChat,No,7.9,7,En Relacion,2,5
+513,19,Femenino,Pregrado,Netherlands,3.7,TikTok,No,8.3,8,Soltero/a,2,4
+514,21,Masculino,Posgrado,New Zealand,4.6,Instagram,Si,7.6,7,En Relacion,3,6
+515,20,Femenino,Pregrado,Singapore,5.2,TikTok,Si,6.9,6,Soltero/a,3,7
+516,22,Masculino,Posgrado,Malaysia,5.6,WhatsApp,Si,6.7,6,Soltero/a,3,7
+517,19,Femenino,Pregrado,UAE,6.6,Instagram,Si,6.4,5,En Relacion,4,8
+518,21,Masculino,Posgrado,Poland,4.1,Facebook,No,8.0,7,Soltero/a,2,5
+519,20,Femenino,Pregrado,India,6.9,WhatsApp,Si,5.9,5,En Relacion,4,8
+520,22,Masculino,Posgrado,Canada,4.7,TikTok,Si,7.5,7,Soltero/a,3,6
+521,19,Femenino,Pregrado,Brazil,6.0,WhatsApp,Si,6.5,6,Soltero/a,3,7
+522,21,Masculino,Posgrado,China,4.3,WeChat,No,8.0,7,En Relacion,2,5
+523,20,Femenino,Pregrado,Netherlands,3.6,Instagram,No,8.4,8,Soltero/a,2,4
+524,22,Masculino,Posgrado,New Zealand,4.5,Facebook,Si,7.7,7,En Relacion,3,6
+525,19,Femenino,Pregrado,Singapore,5.3,TikTok,Si,6.8,6,Soltero/a,3,7
+526,21,Masculino,Posgrado,Malaysia,5.7,WhatsApp,Si,6.6,6,Soltero/a,3,7
+527,20,Femenino,Pregrado,UAE,6.7,Instagram,Si,6.3,5,En Relacion,4,8
+528,22,Masculino,Posgrado,Poland,4.0,Facebook,No,8.1,7,Soltero/a,2,5
+529,19,Femenino,Pregrado,India,7.0,WhatsApp,Si,5.8,5,En Relacion,4,8
+530,21,Masculino,Posgrado,Canada,4.6,Instagram,Si,7.6,7,Soltero/a,3,6
+531,20,Femenino,Pregrado,Brazil,5.9,TikTok,Si,6.6,6,Soltero/a,3,7
+532,22,Masculino,Posgrado,China,4.2,WeChat,No,8.1,7,En Relacion,2,5
+533,19,Femenino,Pregrado,Netherlands,3.5,Instagram,No,8.5,8,Soltero/a,2,4
+534,21,Masculino,Posgrado,New Zealand,4.4,Facebook,Si,7.8,7,En Relacion,3,6
+535,20,Femenino,Pregrado,Singapore,5.4,TikTok,Si,6.7,6,Soltero/a,3,7
+536,22,Masculino,Posgrado,Malaysia,5.8,WhatsApp,Si,6.5,6,Soltero/a,3,7
+537,19,Femenino,Pregrado,UAE,6.8,Instagram,Si,6.2,5,En Relacion,4,8
+538,21,Masculino,Posgrado,Poland,3.9,Facebook,No,8.2,7,Soltero/a,2,5
+539,20,Femenino,Pregrado,India,7.1,WhatsApp,Si,5.7,5,En Relacion,4,8
+540,22,Masculino,Posgrado,Canada,4.5,TikTok,Si,7.7,7,Soltero/a,3,6
+541,19,Femenino,Pregrado,Brazil,5.8,WhatsApp,Si,6.7,6,Soltero/a,3,7
+542,21,Masculino,Posgrado,China,4.1,WeChat,No,8.2,7,En Relacion,2,5
+543,20,Femenino,Pregrado,Netherlands,3.4,Instagram,No,8.6,8,Soltero/a,2,4
+544,22,Masculino,Posgrado,New Zealand,4.3,Instagram,Si,7.9,7,En Relacion,3,6
+545,19,Femenino,Pregrado,Singapore,5.5,TikTok,Si,6.6,6,Soltero/a,3,7
+546,21,Masculino,Posgrado,Malaysia,5.9,WhatsApp,Si,6.4,6,Soltero/a,3,7
+547,20,Femenino,Pregrado,UAE,6.9,Instagram,Si,6.1,5,En Relacion,4,8
+548,22,Masculino,Posgrado,Poland,3.8,Facebook,No,8.3,7,Soltero/a,2,5
+549,19,Femenino,Pregrado,India,7.2,WhatsApp,Si,5.6,5,En Relacion,4,8
+550,21,Masculino,Posgrado,Canada,4.4,Instagram,Si,7.8,7,Soltero/a,3,6
+551,20,Femenino,Pregrado,Brazil,5.7,TikTok,Si,6.8,6,Soltero/a,3,7
+552,22,Masculino,Posgrado,China,4.0,WeChat,No,8.3,7,En Relacion,2,5
+553,19,Femenino,Pregrado,Netherlands,3.3,Instagram,No,8.7,8,Soltero/a,2,4
+554,21,Masculino,Posgrado,New Zealand,4.2,Facebook,Si,8.0,7,En Relacion,3,6
+555,20,Femenino,Pregrado,Singapore,5.6,TikTok,Si,6.5,6,Soltero/a,3,7
+556,22,Masculino,Posgrado,Malaysia,6.0,WhatsApp,Si,6.3,6,Soltero/a,3,7
+557,19,Femenino,Pregrado,UAE,7.0,Instagram,Si,6.0,5,En Relacion,4,8
+558,21,Masculino,Posgrado,Poland,3.7,Facebook,No,8.4,7,Soltero/a,2,5
+559,20,Femenino,Pregrado,India,7.3,WhatsApp,Si,5.5,5,En Relacion,4,8
+560,22,Masculino,Posgrado,Canada,4.3,TikTok,Si,7.9,7,Soltero/a,3,6
+561,19,Femenino,Pregrado,Brazil,5.6,WhatsApp,Si,6.9,6,Soltero/a,3,7
+562,21,Masculino,Posgrado,China,3.9,WeChat,No,8.4,7,En Relacion,2,5
+563,20,Femenino,Pregrado,Netherlands,3.2,Instagram,No,8.8,8,Soltero/a,2,4
+564,22,Masculino,Posgrado,New Zealand,4.1,Instagram,Si,8.1,7,En Relacion,3,6
+565,19,Femenino,Pregrado,Singapore,5.7,TikTok,Si,6.4,6,Soltero/a,3,7
+566,21,Masculino,Posgrado,Malaysia,6.1,WhatsApp,Si,6.2,6,Soltero/a,3,7
+567,20,Femenino,Pregrado,UAE,7.1,Instagram,Si,5.9,5,En Relacion,4,8
+568,22,Masculino,Posgrado,Poland,3.6,Facebook,No,8.5,7,Soltero/a,2,5
+569,19,Femenino,Pregrado,India,7.4,WhatsApp,Si,5.4,5,En Relacion,4,8
+570,21,Masculino,Posgrado,Canada,4.2,Instagram,Si,8.0,7,Soltero/a,3,6
+571,20,Femenino,Pregrado,Spain,6.1,Instagram,Si,7.2,5,Soltero/a,4,7
+572,23,Masculino,Posgrado,Denmark,3.8,Twitter,No,7.8,8,En Relacion,2,4
+573,19,Femenino,Pregrado,Ireland,5.5,TikTok,Si,6.8,6,Soltero/a,4,8
+574,22,Masculino,Posgrado,India,7.2,Facebook,Si,5.9,4,Soltero/a,5,9
+575,21,Femenino,Pregrado,Switzerland,4.2,Instagram,No,7.5,7,En Relacion,2,5
+576,24,Masculino,Posgrado,Turkey,6.8,TikTok,Si,6.2,5,Soltero/a,4,8
+577,20,Femenino,Pregrado,USA,5.9,Instagram,Si,6.7,6,En Relacion,3,7
+578,22,Masculino,Posgrado,Mexico,6.5,Facebook,Si,6.1,5,Soltero/a,4,8
+579,19,Femenino,Pregrado,France,4.7,Twitter,No,7.4,7,Soltero/a,2,5
+580,23,Masculino,Posgrado,Canada,5.2,Instagram,Si,7.0,6,En Relacion,3,6
+581,21,Femenino,Pregrado,UK,6.3,TikTok,Si,6.4,5,Soltero/a,4,8
+582,24,Masculino,Posgrado,Italy,4.9,Facebook,No,7.3,7,En Relacion,2,5
+583,20,Femenino,Pregrado,Russia,6.7,Instagram,Si,6.0,5,Soltero/a,4,8
+584,22,Masculino,Posgrado,China,5.8,WeChat,Si,6.5,6,En Relacion,3,7
+585,19,Femenino,Pregrado,Japan,4.5,Twitter,No,7.6,8,Soltero/a,2,4
+586,23,Masculino,Posgrado,Poland,6.4,Facebook,Si,6.3,5,Soltero/a,4,8
+587,21,Femenino,Pregrado,Finland,4.1,Instagram,No,7.7,7,En Relacion,2,5
+588,24,Masculino,Posgrado,Spain,6.6,TikTok,Si,6.2,5,Soltero/a,4,8
+589,20,Femenino,Pregrado,Denmark,4.4,Instagram,No,7.4,7,En Relacion,2,5
+590,22,Masculino,Posgrado,Ireland,5.7,Twitter,Si,6.8,6,Soltero/a,3,7
+591,19,Femenino,Pregrado,India,7.0,Instagram,Si,5.8,4,Soltero/a,5,9
+592,23,Masculino,Posgrado,Switzerland,4.3,Facebook,No,7.5,7,En Relacion,2,5
+593,21,Femenino,Pregrado,Turkey,6.9,TikTok,Si,6.1,5,Soltero/a,4,8
+594,24,Masculino,Posgrado,USA,5.6,Instagram,Si,6.9,6,En Relacion,3,7
+595,20,Femenino,Pregrado,Mexico,6.2,Facebook,Si,6.3,5,Soltero/a,4,8
+596,21,Masculino,Pregrado,France,5.8,Instagram,Si,6.7,6,Soltero/a,3,7
+597,23,Femenino,Posgrado,Canada,4.9,TikTok,No,7.3,7,En Relacion,2,5
+598,20,Masculino,Pregrado,UK,6.4,Facebook,Si,6.2,5,Soltero/a,4,8
+599,22,Femenino,Posgrado,Italy,5.1,Twitter,No,7.1,7,En Relacion,2,5
+600,19,Masculino,Pregrado,Russia,6.7,Instagram,Si,6.0,4,Soltero/a,4,8
+601,24,Femenino,Posgrado,China,5.5,WeChat,Si,6.8,6,En Relacion,3,7
+602,21,Masculino,Pregrado,Japan,4.3,Twitter,No,7.6,8,Soltero/a,2,4
+603,23,Femenino,Posgrado,Poland,6.2,Instagram,Si,6.4,5,Soltero/a,4,8
+604,20,Masculino,Pregrado,Finland,4.5,Facebook,No,7.4,7,En Relacion,2,5
+605,22,Femenino,Posgrado,Spain,6.3,TikTok,Si,6.3,5,Soltero/a,4,8
+606,19,Masculino,Pregrado,Denmark,4.7,Instagram,No,7.2,7,En Relacion,2,5
+607,24,Femenino,Posgrado,Ireland,5.9,Twitter,Si,6.6,6,Soltero/a,3,7
+608,21,Masculino,Pregrado,India,7.1,Facebook,Si,5.7,4,Soltero/a,5,9
+609,23,Femenino,Posgrado,Switzerland,4.4,Instagram,No,7.4,7,En Relacion,2,5
+610,20,Masculino,Pregrado,Turkey,6.6,TikTok,Si,6.2,5,Soltero/a,4,8
+611,22,Femenino,Posgrado,USA,5.4,Instagram,Si,6.9,6,En Relacion,3,7
+612,19,Masculino,Pregrado,Mexico,6.5,Facebook,Si,6.1,5,Soltero/a,4,8
+613,24,Femenino,Posgrado,France,4.8,Twitter,No,7.3,7,En Relacion,2,5
+614,21,Masculino,Pregrado,Canada,5.7,Instagram,Si,6.7,6,Soltero/a,3,7
+615,23,Femenino,Posgrado,UK,6.1,TikTok,Si,6.4,5,Soltero/a,4,8
+616,20,Masculino,Pregrado,Italy,4.6,Facebook,No,7.2,7,En Relacion,2,5
+617,22,Femenino,Posgrado,Russia,6.8,Instagram,Si,5.9,4,Soltero/a,5,9
+618,19,Masculino,Pregrado,China,5.6,WeChat,Si,6.8,6,En Relacion,3,7
+619,24,Femenino,Posgrado,Japan,4.2,Twitter,No,7.5,8,Soltero/a,2,4
+620,21,Masculino,Pregrado,Poland,6.3,TikTok,Si,6.3,5,Soltero/a,4,8
+621,23,Femenino,Posgrado,Finland,4.4,Instagram,No,7.4,7,En Relacion,2,5
+622,20,Masculino,Pregrado,Spain,6.5,Facebook,Si,6.2,5,Soltero/a,4,8
+623,22,Femenino,Posgrado,Denmark,4.6,Twitter,No,7.3,7,En Relacion,2,5
+624,19,Masculino,Pregrado,Ireland,5.8,Instagram,Si,6.6,6,Soltero/a,3,7
+625,24,Femenino,Posgrado,India,7.0,TikTok,Si,5.8,4,Soltero/a,5,9
+626,21,Masculino,Pregrado,Switzerland,4.5,Facebook,No,7.3,7,En Relacion,2,5
+627,23,Femenino,Posgrado,Turkey,6.7,Instagram,Si,6.1,5,Soltero/a,4,8
+628,20,Masculino,Pregrado,USA,5.5,Twitter,Si,6.8,6,En Relacion,3,7
+629,22,Femenino,Posgrado,Mexico,6.4,Facebook,Si,6.2,5,Soltero/a,4,8
+630,19,Masculino,Pregrado,France,4.7,Instagram,No,7.2,7,En Relacion,2,5
+631,24,Femenino,Posgrado,Canada,5.6,TikTok,Si,6.7,6,Soltero/a,3,7
+632,21,Masculino,Pregrado,UK,6.2,Facebook,Si,6.3,5,Soltero/a,4,8
+633,23,Femenino,Posgrado,Italy,4.8,Twitter,No,7.1,7,En Relacion,2,5
+634,20,Masculino,Pregrado,Russia,6.9,Instagram,Si,5.9,4,Soltero/a,5,9
+635,22,Femenino,Posgrado,China,5.7,WeChat,Si,6.7,6,En Relacion,3,7
+636,19,Masculino,Pregrado,Japan,4.4,Twitter,No,7.4,8,Soltero/a,2,4
+637,24,Femenino,Posgrado,Poland,6.1,TikTok,Si,6.4,5,Soltero/a,4,8
+638,21,Masculino,Pregrado,Finland,4.3,Instagram,No,7.5,7,En Relacion,2,5
+639,23,Femenino,Posgrado,Spain,6.4,Facebook,Si,6.2,5,Soltero/a,4,8
+640,20,Masculino,Pregrado,Denmark,4.5,Twitter,No,7.3,7,En Relacion,2,5
+641,22,Femenino,Posgrado,Ireland,5.9,Instagram,Si,6.5,6,Soltero/a,3,7
+642,19,Masculino,Pregrado,India,7.2,TikTok,Si,5.7,4,Soltero/a,5,9
+643,24,Femenino,Posgrado,Switzerland,4.6,Facebook,No,7.2,7,En Relacion,2,5
+644,21,Masculino,Pregrado,Turkey,6.8,Instagram,Si,6.0,5,Soltero/a,4,8
+645,23,Femenino,Posgrado,USA,5.3,Twitter,Si,6.8,6,En Relacion,3,7
+646,22,Masculino,Posgrado,Mexico,6.3,Facebook,Si,6.2,5,Soltero/a,4,8
+647,20,Femenino,Pregrado,France,4.8,Instagram,No,7.1,7,En Relacion,2,5
+648,23,Masculino,Posgrado,Canada,5.7,TikTok,Si,6.6,6,Soltero/a,3,7
+649,21,Femenino,Pregrado,UK,6.2,Twitter,Si,6.3,5,Soltero/a,4,8
+650,24,Masculino,Posgrado,Italy,4.7,Facebook,No,7.2,7,En Relacion,2,5
+651,19,Femenino,Pregrado,Russia,6.8,Instagram,Si,5.9,4,Soltero/a,5,9
+652,22,Masculino,Posgrado,China,5.6,WeChat,Si,6.7,6,En Relacion,3,7
+653,20,Femenino,Pregrado,Japan,4.3,Twitter,No,7.5,8,Soltero/a,2,4
+654,23,Masculino,Posgrado,Poland,6.2,TikTok,Si,6.3,5,Soltero/a,4,8
+655,21,Femenino,Pregrado,Finland,4.4,Instagram,No,7.4,7,En Relacion,2,5
+656,24,Masculino,Posgrado,Spain,6.5,Facebook,Si,6.1,5,Soltero/a,4,8
+657,19,Femenino,Pregrado,Denmark,4.6,Twitter,No,7.3,7,En Relacion,2,5
+658,22,Masculino,Posgrado,Ireland,5.8,Instagram,Si,6.6,6,Soltero/a,3,7
+659,20,Femenino,Pregrado,India,7.1,TikTok,Si,5.8,4,Soltero/a,5,9
+660,23,Masculino,Posgrado,Switzerland,4.5,Facebook,No,7.3,7,En Relacion,2,5
+661,21,Femenino,Pregrado,Turkey,6.7,Instagram,Si,6.0,5,Soltero/a,4,8
+662,24,Masculino,Posgrado,USA,5.4,Twitter,Si,6.8,6,En Relacion,3,7
+663,19,Femenino,Pregrado,Mexico,6.4,TikTok,Si,6.2,5,Soltero/a,4,8
+664,22,Masculino,Posgrado,France,4.7,Facebook,No,7.2,7,En Relacion,2,5
+665,20,Femenino,Pregrado,Canada,5.6,Instagram,Si,6.7,6,Soltero/a,3,7
+666,23,Masculino,Posgrado,UK,6.3,Twitter,Si,6.2,5,Soltero/a,4,8
+667,21,Femenino,Pregrado,Italy,4.8,TikTok,No,7.1,7,En Relacion,2,5
+668,24,Masculino,Posgrado,Russia,6.9,Instagram,Si,5.9,4,Soltero/a,5,9
+669,19,Femenino,Pregrado,China,5.7,WeChat,Si,6.7,6,En Relacion,3,7
+670,22,Masculino,Posgrado,Japan,4.4,Twitter,No,7.4,8,Soltero/a,2,4
+671,20,Femenino,Pregrado,Poland,6.1,Facebook,Si,6.4,5,Soltero/a,4,8
+672,23,Masculino,Posgrado,Finland,4.3,Instagram,No,7.5,7,En Relacion,2,5
+673,21,Femenino,Pregrado,Spain,6.4,TikTok,Si,6.2,5,Soltero/a,4,8
+674,24,Masculino,Posgrado,Denmark,4.5,Twitter,No,7.3,7,En Relacion,2,5
+675,19,Femenino,Pregrado,Ireland,5.9,Instagram,Si,6.5,6,Soltero/a,3,7
+676,22,Masculino,Posgrado,India,7.2,Facebook,Si,5.7,4,Soltero/a,5,9
+677,20,Femenino,Pregrado,Switzerland,4.6,TikTok,No,7.2,7,En Relacion,2,5
+678,23,Masculino,Posgrado,Turkey,6.8,Instagram,Si,6.0,5,Soltero/a,4,8
+679,21,Femenino,Pregrado,USA,5.3,Twitter,Si,6.8,6,En Relacion,3,7
+680,24,Masculino,Posgrado,Mexico,6.2,Facebook,Si,6.3,5,Soltero/a,4,8
+681,19,Femenino,Pregrado,France,4.7,Instagram,No,7.2,7,En Relacion,2,5
+682,22,Masculino,Posgrado,Canada,5.8,TikTok,Si,6.6,6,Soltero/a,3,7
+683,20,Femenino,Pregrado,UK,6.1,Twitter,Si,6.4,5,Soltero/a,4,8
+684,23,Masculino,Posgrado,Italy,4.8,Facebook,No,7.1,7,En Relacion,2,5
+685,21,Femenino,Pregrado,Russia,6.7,Instagram,Si,6.0,4,Soltero/a,5,9
+686,24,Masculino,Posgrado,China,5.5,WeChat,Si,6.8,6,En Relacion,3,7
+687,19,Femenino,Pregrado,Japan,4.2,Twitter,No,7.5,8,Soltero/a,2,4
+688,22,Masculino,Posgrado,Poland,6.3,TikTok,Si,6.2,5,Soltero/a,4,8
+689,20,Femenino,Pregrado,Finland,4.4,Instagram,No,7.4,7,En Relacion,2,5
+690,23,Masculino,Posgrado,Spain,6.5,Facebook,Si,6.1,5,Soltero/a,4,8
+691,21,Femenino,Pregrado,Denmark,4.6,Twitter,No,7.3,7,En Relacion,2,5
+692,24,Masculino,Posgrado,Ireland,5.9,Instagram,Si,6.5,6,Soltero/a,3,7
+693,19,Femenino,Pregrado,India,7.0,TikTok,Si,5.8,4,Soltero/a,5,9
+694,22,Masculino,Posgrado,Switzerland,4.5,Facebook,No,7.3,7,En Relacion,2,5
+695,20,Femenino,Pregrado,Turkey,6.6,Instagram,Si,6.1,5,Soltero/a,4,8
+696,23,Masculino,Posgrado,USA,5.5,Twitter,Si,6.7,6,En Relacion,3,7
+697,21,Femenino,Pregrado,Mexico,6.3,TikTok,Si,6.2,5,Soltero/a,4,8
+698,24,Masculino,Posgrado,France,4.8,Facebook,No,7.1,7,En Relacion,2,5
+699,19,Femenino,Pregrado,Canada,5.7,Instagram,Si,6.6,6,Soltero/a,3,7
+700,22,Masculino,Posgrado,UK,6.2,Twitter,Si,6.3,5,Soltero/a,4,8
+701,20,Femenino,Pregrado,Italy,4.7,TikTok,No,7.2,7,En Relacion,2,5
+702,23,Masculino,Posgrado,Russia,6.8,Instagram,Si,5.9,4,Soltero/a,5,9
+703,21,Femenino,Pregrado,China,5.6,WeChat,Si,6.7,6,En Relacion,3,7
+704,24,Masculino,Posgrado,Japan,4.3,Twitter,No,7.5,8,Soltero/a,2,4
+705,19,Femenino,Pregrado,Poland,6.2,Facebook,Si,6.3,5,Soltero/a,4,8
